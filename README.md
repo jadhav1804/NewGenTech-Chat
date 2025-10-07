@@ -39,3 +39,6 @@ Public URL will appear in terminal automatically.
 - Python Standard Library only (no dependencies)
 - HTML, CSS, JavaScript frontend
 - SSE (Server-Sent Events) for live updates
+
+  ## 📜 License
+This project is open-source under the **NEW GEN TECH PVT. LTD.**.
