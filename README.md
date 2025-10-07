@@ -40,5 +40,5 @@ Public URL will appear in terminal automatically.
 - HTML, CSS, JavaScript frontend
 - SSE (Server-Sent Events) for live updates
 
-  ## 📜 License
-This project is open-source under the **NEW GEN TECH PVT. LTD.**.
+## 📜 License
+This project is licensed under the **MIT License** © 2025 NEW GEN TECH PVT. LTD.
